@@ -1,0 +1,17 @@
+.App {
+  font-family: "Times New Roman";
+  text-align: left;
+}
+input {
+  border: 2px solid #899eb3;
+  outline-style: none;
+  margin-bottom: 0.5px;
+}
+h1 {
+  font-weight: 900;
+}
+
+h3 {
+  margin-top: 0.5px;
+  margin-bottom: 1px;
+}
